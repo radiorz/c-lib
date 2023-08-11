@@ -2,6 +2,6 @@
 
 int hello(int value)
 {
-  cout << "value" << value << endl;
+  printf("hello\n");
   return 0;
 }
