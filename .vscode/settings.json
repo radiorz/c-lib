@@ -1,7 +1,8 @@
 {
   "files.associations": {
     "*.conf": "yaml",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "hello.h": "c"
   },
   "workbench.colorCustomizations": {
     "commandCenter.border": "#15202b99",

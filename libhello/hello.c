@@ -1,7 +1,7 @@
 #include "./hello.h"
 
-int hello(int value)
+int returnSomeValue(int value)
 {
   printf("hello\n");
-  return 0;
+  return value;
 }
