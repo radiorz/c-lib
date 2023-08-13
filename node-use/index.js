@@ -1,5 +1,5 @@
 const ffi = require("ffi-napi");
-const lib = new ffi.Library("../libhello/build/libhello.so", {
+const lib = new ffi.Library("./libhello", {
   // 函数
   returnSomeValue: ["int", ["int"]],
 });
