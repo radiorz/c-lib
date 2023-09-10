@@ -2,7 +2,10 @@
   "files.associations": {
     "*.conf": "yaml",
     "xstring": "cpp",
-    "hello.h": "c"
+    "hello.h": "c",
+    "signal.h": "c",
+    "mutex": "c",
+    "stdio.h": "c"
   },
   "workbench.colorCustomizations": {
     "commandCenter.border": "#15202b99",
